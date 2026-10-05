@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_flying_fish_slice"
+    },
+    {
+      "item": "alexsmobsdelight:raw_flying_fish_slice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:flying_fish_roll",
+    "count": 2
+  }
+}

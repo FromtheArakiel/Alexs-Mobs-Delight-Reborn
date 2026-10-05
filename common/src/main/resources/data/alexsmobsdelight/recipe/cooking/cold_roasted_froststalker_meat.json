@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bucket"
+  },
+  "cookingtime": 400,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_froststalker_leg"
+    },
+    {
+      "item": "alexsmobsdelight:raw_froststalker_leg"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:spruce_sapling"
+    },
+    {
+      "item": "minecraft:snow_block"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:cold_roasted_froststalker_meat"
+  }
+}

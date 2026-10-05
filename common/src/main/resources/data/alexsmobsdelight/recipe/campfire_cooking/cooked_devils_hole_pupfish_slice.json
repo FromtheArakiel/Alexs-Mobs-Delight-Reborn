@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_devils_hole_pupfish_slice"
+  },
+  "result": "alexsmobsdelight:cooked_devils_hole_pupfish_slice",
+  "experience": 0.35,
+  "cookingtime": 600
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "h": {
+      "item": "alexsmobsdelight:lobster_head"
+    },
+    "s": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "pattern": [
+    "  h",
+    "hh ",
+    "sh "
+  ],
+  "result": {
+    "id": "alexsmobsdelight:lobster_dart"
+  }
+}

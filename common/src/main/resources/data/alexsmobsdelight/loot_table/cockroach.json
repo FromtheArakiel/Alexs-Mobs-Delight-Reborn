@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "name": "polar_bear",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobsdelight:cockroach"
+        }
+      ]
+    }
+  ]
+}

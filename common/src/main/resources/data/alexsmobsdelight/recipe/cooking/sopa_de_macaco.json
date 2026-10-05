@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobs:banana_peel"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "alexsmobs:sopa_de_macaco"
+  }
+}

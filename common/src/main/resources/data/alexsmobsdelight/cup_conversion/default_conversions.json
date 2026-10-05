@@ -1,0 +1,24 @@
+{
+	"entries": [
+		{
+			"bowl": "alexsmobs:mosquito_repellent_stew",
+			"cup": "alexsmobsdelight:mosquito_repellent_stew_cup"
+		},
+		{
+			"bowl": "alexsmobsdelight:detoxify_soup",
+			"cup": "alexsmobsdelight:detoxify_soup_cup"
+		},
+		{
+			"bowl": "alexsmobsdelight:cockroach_protein_soup",
+			"cup": "alexsmobsdelight:cockroach_protein_soup_cup"
+		},
+		{
+			"bowl": "alexsmobsdelight:cave_centipede_soup",
+			"cup": "alexsmobsdelight:cave_centipede_soup_cup"
+		},
+		{
+			"bowl": "alexsmobs:sopa_de_macaco",
+			"cup": "alexsmobsdelight:sopa_de_macaco_cup"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "alexsmobsdelight:mantis_shrimp_tails"
+  },
+  "result": "alexsmobsdelight:cooked_mantis_shrimp_tail"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:moose_pie"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:slice_of_moose_pie",
+        "count": 4
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

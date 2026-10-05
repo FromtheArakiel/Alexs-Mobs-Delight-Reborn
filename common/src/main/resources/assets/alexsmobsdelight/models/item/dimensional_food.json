@@ -1,0 +1,33 @@
+{
+  "parent": "builtin/entity",
+  "gui_light": "front",
+  "textures": {
+    "particle": "alexsmobsdelight:item/cooked_seagull"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [0, 0, 0]
+    },
+    "thirdperson_lefthand": {
+      "translation": [0, 0, 0]
+    },
+    "firstperson_righthand": {
+      "translation": [0, 0, 0]
+    },
+    "firstperson_lefthand": {
+      "translation": [0, 0, 0]
+    },
+    "ground": {
+      "translation": [0, 0, 0]
+    },
+    "gui": {
+      "translation": [0, 0, 0]
+    },
+    "head": {
+      "translation": [0, 0, 0]
+    },
+    "fixed": {
+      "translation": [0, 0, 0]
+    }
+  }
+}

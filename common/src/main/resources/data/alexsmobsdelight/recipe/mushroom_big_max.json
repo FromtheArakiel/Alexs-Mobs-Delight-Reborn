@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:mushroom_hat"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_bunfungus_leg"
+    },
+    {
+      "item": "alexsmobs:mungal_spores"
+    },
+    {
+      "item": "alexsmobs:gongylidia"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:mushroom_big_max"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobs:kangaroo_meat"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:raw_kangaroo_meat_slice",
+        "count": 2
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

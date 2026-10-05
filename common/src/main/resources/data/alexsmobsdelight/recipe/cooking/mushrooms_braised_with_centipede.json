@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:minecart"
+  },
+  "cookingtime": 1200,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_centipede_body"
+    },
+    {
+      "item": "alexsmobsdelight:raw_centipede_body"
+    },
+    {
+      "item": "farmersdelight:rice_bag"
+    },
+    {
+      "item": "farmersdelight:red_mushroom_colony"
+    },
+    {
+      "item": "farmersdelight:brown_mushroom_colony"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:mushrooms_braised_with_centipede"
+  }
+}

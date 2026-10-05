@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_mudskipper"
+  },
+  "result": "alexsmobsdelight:cooked_mudskipper",
+  "experience": 0.35,
+  "cookingtime": 200
+}

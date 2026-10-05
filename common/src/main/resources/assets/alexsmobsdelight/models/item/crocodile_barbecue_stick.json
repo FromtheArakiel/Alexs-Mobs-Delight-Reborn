@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/crocodile_barbecue_stick"
+  }
+}

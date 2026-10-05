@@ -1,0 +1,26 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "alexsmobsdelight:block/cooked_beggars_emu_side",
+		"2": "alexsmobsdelight:block/cooked_beggars_emu_front",
+		"3": "alexsmobsdelight:block/cooked_beggars_emu_top",
+		"4": "alexsmobsdelight:block/cooked_beggars_emu_bottom",
+		"particle": "alexsmobsdelight:block/beggars_emu_side"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 0],
+			"to": [14, 14, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 0]},
+			"faces": {
+				"north": {"uv": [2, 2, 14, 16], "texture": "#2"},
+				"east": {"uv": [0, 2, 16, 16], "texture": "#1"},
+				"south": {"uv": [2, 2, 14, 16], "texture": "#2"},
+				"west": {"uv": [0, 2, 16, 16], "texture": "#1"},
+				"up": {"uv": [2, 0, 14, 16], "texture": "#3"},
+				"down": {"uv": [2, 0, 14, 16], "texture": "#4"}
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_mudskipper_slice"
+    },
+    {
+      "item": "alexsmobsdelight:raw_mudskipper_slice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:mudskipper_roll",
+    "count": 2
+  }
+}

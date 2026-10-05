@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_tarantula_hawk_abdomen"
+  },
+  "result": "alexsmobsdelight:cooked_tarantula_hawk_abdomen",
+  "experience": 0.35,
+  "cookingtime": 100
+}

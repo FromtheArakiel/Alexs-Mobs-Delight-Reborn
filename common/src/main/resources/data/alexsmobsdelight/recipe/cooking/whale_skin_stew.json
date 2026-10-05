@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:whale_meat"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "forge:raw_fishes/cod"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:whale_skin_stew"
+  }
+}

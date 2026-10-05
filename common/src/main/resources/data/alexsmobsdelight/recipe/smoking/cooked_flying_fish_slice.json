@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_flying_fish_slice"
+  },
+  "result": "alexsmobsdelight:cooked_flying_fish_slice",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobs:raw_catfish"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:raw_catfish_slice",
+        "count": 2
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

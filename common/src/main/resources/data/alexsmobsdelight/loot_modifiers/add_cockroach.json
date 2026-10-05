@@ -1,0 +1,11 @@
+{
+  "type": "alexsmobsdelight:add_loot_table",
+  "conditions":
+  [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "alexsmobs:entities/cockroach"
+    }
+  ],
+  "lootTable": "alexsmobsdelight:cockroach"
+}

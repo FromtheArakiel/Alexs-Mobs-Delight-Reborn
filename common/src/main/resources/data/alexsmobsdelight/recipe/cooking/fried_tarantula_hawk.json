@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_abdomen"
+    },
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_abdomen"
+    },
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_abdomen"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:fried_tarantula_hawk"
+  }
+}

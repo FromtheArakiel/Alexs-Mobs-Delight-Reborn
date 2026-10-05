@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_hummingbird"
+  },
+  "result": "alexsmobsdelight:cooked_hummingbird",
+  "experience": 0.35,
+  "cookingtime": 100
+}

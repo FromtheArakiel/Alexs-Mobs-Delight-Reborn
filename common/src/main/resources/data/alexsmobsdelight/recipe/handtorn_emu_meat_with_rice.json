@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:cooked_emu"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "alexsmobs:acacia_blossom"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:handtorn_emu_meat_with_rice"
+  },
+  "show_notification": true
+}

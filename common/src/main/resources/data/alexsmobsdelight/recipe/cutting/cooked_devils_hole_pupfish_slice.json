@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_devils_hole_pupfish"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:cooked_devils_hole_pupfish_slice",
+        "count": 2
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

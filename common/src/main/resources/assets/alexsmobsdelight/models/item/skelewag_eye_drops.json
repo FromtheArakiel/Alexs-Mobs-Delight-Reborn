@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/skelewag_eye_drops"
+  }
+}

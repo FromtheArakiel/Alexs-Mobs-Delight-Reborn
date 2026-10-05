@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    [
+      {
+        "item": "alexsmobs:raw_catfish"
+      },
+      {
+        "item": "alexsmobsdelight:raw_catfish_slice"
+      }
+    ],
+    {
+      "item": "minecraft:seagrass"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:catfish_stew"
+  }
+}

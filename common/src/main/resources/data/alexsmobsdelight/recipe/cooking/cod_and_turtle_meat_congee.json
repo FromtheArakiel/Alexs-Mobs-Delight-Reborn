@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "alexsmobsdelight:terrapin_shell"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_turtle_meat"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "forge:raw_fishes/cod"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:cod_and_turtle_meat_congee"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:glass_bottle"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobs:mungal_spores"
+    },
+    {
+      "item": "minecraft:warped_wart_block"
+    },
+    {
+      "item": "minecraft:warped_wart_block"
+    },
+    {
+      "item": "minecraft:twisting_vines"
+    },
+    {
+      "item": "minecraft:warped_roots"
+    },
+    {
+      "item": "farmersdelight:nether_salad"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "alexsmobs:warped_mixture"
+  }
+}

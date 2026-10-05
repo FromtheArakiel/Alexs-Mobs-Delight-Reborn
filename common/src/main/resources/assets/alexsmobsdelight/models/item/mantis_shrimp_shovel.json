@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/mantis_shrimp_shovel"
+  }
+}

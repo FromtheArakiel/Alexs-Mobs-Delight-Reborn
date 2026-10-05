@@ -1,0 +1,24 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "alexsmobsdelight:block/stuffed_grilled_anaconda_other",
+		"2": "alexsmobsdelight:block/alligator_snapping_turtle_shell_top",
+		"4": "alexsmobsdelight:block/alligator_snapping_turtle_side",
+		"particle": "alexsmobsdelight:block/stuffed_grilled_anaconda_other"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 6], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#4"},
+				"south": {"uv": [0, 6, 16, 9], "texture": "#4"},
+				"west": {"uv": [16, 0, 0, 3], "texture": "#4"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#2"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	]
+}

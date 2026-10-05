@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "alexsmobsdelight:terrapin_shell"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_turtle_meat"
+    },
+    {
+      "item": "alexsmobsdelight:raw_turtle_meat"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:turtle_soup"
+  }
+}

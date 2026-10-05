@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    },
+    {
+      "item": "alexsmobsdelight:mungal_spores_cake_slice"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:mungal_spores_cake",
+    "count": 1
+  }
+}

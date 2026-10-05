@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_maggot"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_maggot"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_maggot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:cooked_maggot_stick"
+  }
+}

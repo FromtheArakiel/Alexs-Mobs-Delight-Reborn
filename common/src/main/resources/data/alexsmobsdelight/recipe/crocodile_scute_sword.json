@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "alexsmobs:crocodile_scute"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "c",
+    "c",
+    "s"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:crocodile_scute_sword"
+  }
+}

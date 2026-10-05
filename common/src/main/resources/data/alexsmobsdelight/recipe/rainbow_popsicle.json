@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item": "minecraft:ice"
+    },
+    "r": {
+      "item": "alexsmobs:rainbow_jelly"
+    },
+    "s": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "pattern": [
+    " sr",
+    "irs",
+    "-i "
+  ],
+  "result": {
+    "id": "alexsmobsdelight:rainbow_popsicle"
+  },
+  "show_notification": true
+}

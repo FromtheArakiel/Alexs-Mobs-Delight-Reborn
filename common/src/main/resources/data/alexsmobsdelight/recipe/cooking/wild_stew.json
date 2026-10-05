@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bucket"
+  },
+  "cookingtime": 400,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:raw_bison_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:wild_stew_ingredients"
+    },
+    {
+      "tag": "alexsmobsdelight:wild_stew_ingredients"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:wild_stew"
+  }
+}

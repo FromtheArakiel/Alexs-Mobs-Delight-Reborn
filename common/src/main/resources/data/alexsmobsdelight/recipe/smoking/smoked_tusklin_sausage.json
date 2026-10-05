@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_tusklin_sausage"
+  },
+  "result": "alexsmobsdelight:smoked_tusklin_sausage"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:raw_tusklin_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_tusklin_meat"
+    },
+    [
+      {
+        "item": "minecraft:phantom_membrane"
+      },
+      {
+        "item": "alexsmobs:shed_snake_skin"
+      }
+    ]
+  ],
+  "result": {
+    "id": "alexsmobsdelight:raw_tusklin_sausage"
+  }
+}

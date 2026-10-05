@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_anaconda"
+    },
+    [
+      {
+        "item": "alexsmobs:cooked_catfish"
+      },
+      {
+        "item": "alexsmobsdelight:cooked_catfish_slice"
+      }
+    ],
+    {
+      "item": "minecraft:lily_pad"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:anaconda_catfish_stick"
+  }
+}

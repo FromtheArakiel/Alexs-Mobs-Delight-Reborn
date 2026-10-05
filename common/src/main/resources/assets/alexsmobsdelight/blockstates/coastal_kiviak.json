@@ -1,0 +1,139 @@
+{
+  "variants": {
+    "opened=false,facing=north,composting=0": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=0": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=0": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=0": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=1": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=1": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=1": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=1": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=2": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=2": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=2": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=2": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=3": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=3": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=3": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=3": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=4": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=4": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=4": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=4": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=5": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=5": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=5": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=5": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=6": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=6": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=6": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0"
+    },
+    "opened=false,facing=south,composting=6": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_0",
+      "y": 90
+    },
+    "opened=false,facing=north,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_1",
+      "y": 270
+    },
+    "opened=false,facing=west,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_1",
+      "y": 180
+    },
+    "opened=false,facing=east,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_1"
+    },
+    "opened=false,facing=south,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_1",
+      "y": 90
+    },
+    "opened=true,facing=north,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_2",
+      "y": 270
+    },
+    "opened=true,facing=west,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_2",
+      "y": 180
+    },
+    "opened=true,facing=east,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_2"
+    },
+    "opened=true,facing=south,composting=7": {
+      "model": "alexsmobsdelight:block/coastal_kiviak_block_2",
+      "y": 90
+    }
+  }
+}

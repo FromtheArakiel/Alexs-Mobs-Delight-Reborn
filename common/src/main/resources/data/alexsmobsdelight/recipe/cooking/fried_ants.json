@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:fried_ants"
+  }
+}

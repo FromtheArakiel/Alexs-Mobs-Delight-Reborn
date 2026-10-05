@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/mantis_shrimp_tail_green"
+  }
+}

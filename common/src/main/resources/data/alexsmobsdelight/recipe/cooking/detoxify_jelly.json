@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_larva"
+    },
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_larva"
+    },
+    {
+      "item": "alexsmobsdelight:raw_tarantula_hawk_larva"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:lily_of_the_valley"
+    },
+    {
+      "tag": "c:drinks/milk"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "alexsmobsdelight:detoxify_jelly"
+  }
+}

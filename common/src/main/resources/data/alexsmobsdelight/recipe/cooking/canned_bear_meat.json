@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bucket"
+  },
+  "cookingtime": 800,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:raw_bear_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_bear_meat"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:canned_bear_meat"
+  }
+}

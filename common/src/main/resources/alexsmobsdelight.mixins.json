@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.arakiel.alexsmobsdelight.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EntityDevilsHolePupfishMixin",
+    "EntityMantisShrimpMixin",
+    "EntityRaccoonMixin",
+    "EntitySeagullMixin",
+    "FroststalkerAccessor",
+    "LivingHurtMixin",
+    "LivingEntityMixin",
+    "LootItemAccessor",
+    "LootPoolAccessor",
+    "LootPoolSingletonContainerAccessor",
+    "LootTableAccessor",
+    "NourishSupplementMixin",
+    "PlayerBreakSpeedMixin",
+    "SeagullAIStealFromPlayersMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

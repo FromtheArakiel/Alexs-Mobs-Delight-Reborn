@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "pool1",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobsdelight:stuffed_grilled_anaconda"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "alexsmobsdelight:stuffed_grilled_anaconda",
+          "properties": {
+            "servings": "3"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pool2",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobsdelight:alligator_snapping_turtle_shell"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:block_state_property",
+            "block": "alexsmobsdelight:stuffed_grilled_anaconda",
+            "properties": {
+              "servings": "3"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

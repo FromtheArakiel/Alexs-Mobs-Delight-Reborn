@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "alexsmobsdelight:mimic_octopus_tentacle"
+  },
+  "result": "alexsmobsdelight:cooked_octopus_tentacle",
+  "experience": 0.35,
+  "cookingtime": 100
+}

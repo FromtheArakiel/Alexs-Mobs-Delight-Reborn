@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobs:lobster_tail"
+    },
+    {
+      "item": "alexsmobs:lobster_tail"
+    },
+    {
+      "item": "alexsmobs:lobster_tail"
+    },
+    {
+      "item": "alexsmobs:lobster_tail"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:tempura",
+    "count": 4
+  }
+}

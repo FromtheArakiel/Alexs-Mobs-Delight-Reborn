@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_0"
+    },
+    "bites=1": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_1"
+    },
+    "bites=2": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_2"
+    },
+    "bites=3": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_3"
+    },
+    "bites=4": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_4"
+    },
+    "bites=5": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_5"
+    },
+    "bites=6": {
+      "model": "alexsmobsdelight:block/acacia_blossom_cake_6"
+    }
+  }
+}

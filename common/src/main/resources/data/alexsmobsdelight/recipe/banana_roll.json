@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "alexsmobs:banana_peel"
+    },
+    "r": {
+      "item": "farmersdelight:cooked_rice"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "pattern": [
+    "rcr",
+    "ppp"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:banana_roll"
+  },
+  "show_notification": true
+}

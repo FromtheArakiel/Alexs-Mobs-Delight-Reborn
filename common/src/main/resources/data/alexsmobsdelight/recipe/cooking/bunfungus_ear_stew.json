@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_bunfungus_ear"
+    },
+    {
+      "item": "alexsmobsdelight:raw_bunfungus_ear"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "alexsmobs:mungal_spores"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:bunfungus_ear_stew"
+  }
+}

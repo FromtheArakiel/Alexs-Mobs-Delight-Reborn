@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "$": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "pattern": [
+    "# #",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:maggot_farm"
+  }
+}

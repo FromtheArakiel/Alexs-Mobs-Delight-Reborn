@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_crocodile_claw"
+  },
+  "result": "alexsmobsdelight:cooked_crocodile_claw",
+  "experience": 0.35,
+  "cookingtime": 100
+}

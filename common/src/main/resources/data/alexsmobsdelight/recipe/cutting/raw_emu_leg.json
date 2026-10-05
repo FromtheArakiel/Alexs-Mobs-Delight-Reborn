@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_emu"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:raw_emu_leg",
+        "count": 2
+      }
+    },
+    {
+      "item": {
+        "id": "farmersdelight:chicken_cuts",
+        "count": 3
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobs:triops_eggs"
+    },
+    {
+      "item": "alexsmobs:triops_eggs"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:triops_eggs_roll",
+    "count": 2
+  }
+}

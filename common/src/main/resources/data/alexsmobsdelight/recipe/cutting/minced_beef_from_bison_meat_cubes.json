@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_bison_meat_cubes"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "farmersdelight:minced_beef",
+        "count": 2
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/plate_of_mushrooms_braised_with_centipede"
+  }
+}

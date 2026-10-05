@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "name": "lost_tentacle",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:lost_tentacle",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "killer",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "tag": "farmersdelight:tools/knives"
+                  }
+                }
+              }
+            },
+            {
+              "chance": 0.6,
+              "condition": "minecraft:random_chance_with_looting",
+              "looting_multiplier": 0.0625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "LGPL-3.0-only"
+
+[[mods]]
+modId = "alexsmobsdelight"
+version = "${version}"
+displayName = "Alex's Mobs Delight"
+authors = "FromtheArakiel"
+description = '''
+Farmer's Delight compat for Alex's Mobs, vanilla style.
+'''
+logoFile = "assets/alexsmobsdelight/icon.png"
+
+[[mixins]]
+config = "alexsmobsdelight.mixins.json"
+
+[[dependencies.alexsmobsdelight]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.11,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "farmersdelight"
+type = "required"
+versionRange = "[1.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "alexsmobs"
+type = "required"
+versionRange = "[1.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "jei"
+type = "optional"
+versionRange = "[1.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.alexsmobsdelight]]
+modId = "jade"
+type = "optional"
+versionRange = "[1.0,)"
+ordering = "AFTER"
+side = "BOTH"

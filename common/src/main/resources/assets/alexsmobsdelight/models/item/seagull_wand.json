@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "alexsmobsdelight:item/seagull_wand_item"
+  },
+  "perspectives": {
+    "thirdperson_righthand": {
+      "parent": "alexsmobsdelight:item/seagull_wand_handle"
+    },
+    "thirdperson_lefthand": {
+      "parent": "alexsmobsdelight:item/seagull_wand_handle"
+    },
+    "firstperson_righthand": {
+      "parent": "alexsmobsdelight:item/seagull_wand_handle"
+    },
+    "firstperson_lefthand": {
+      "parent": "alexsmobsdelight:item/seagull_wand_handle"
+    }
+  }
+}

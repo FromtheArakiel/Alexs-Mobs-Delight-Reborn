@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_bunfungus_ear"
+    },
+    {
+      "item": "minecraft:glow_lichen"
+    },
+    {
+      "tag": "farmersdelight:cabbage_roll_ingredients"
+    },
+    {
+      "item": "alexsmobs:mungal_spores"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:bunfungus_ear_roll"
+  }
+}

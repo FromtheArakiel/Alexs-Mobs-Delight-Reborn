@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "alexsmobsdelight:mushroom_hat"
+  },
+  "result": "alexsmobsdelight:cooked_mushroom_hat",
+  "experience": 0.35,
+  "cookingtime": 600
+}

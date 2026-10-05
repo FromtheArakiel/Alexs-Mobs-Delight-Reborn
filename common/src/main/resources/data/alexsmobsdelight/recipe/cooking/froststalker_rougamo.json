@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:raw_froststalker_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_froststalker_meat"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:froststalker_rougamo"
+  }
+}

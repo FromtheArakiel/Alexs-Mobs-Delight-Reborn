@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobsdelight:seagull_wand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:echolocator"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:skelewag_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:shield_of_the_deep"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coast_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dune_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tide_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sniffer_egg"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

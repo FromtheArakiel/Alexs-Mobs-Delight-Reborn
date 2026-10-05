@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_tarantula_hawk_larva"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_tarantula_hawk_larva"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:dried_kelp_rolled_tarantula_hawk_larva",
+    "count": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:mantis_shrimp_tails"
+    },
+    {
+      "tag": "alexsmobsdelight:mantis_shrimp_tails"
+    },
+    {
+      "tag": "alexsmobsdelight:mantis_shrimp_tails"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:mantis_shrimp_tempura",
+    "count": 3
+  }
+}

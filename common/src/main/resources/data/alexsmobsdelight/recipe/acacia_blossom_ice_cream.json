@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:acacia_blossom"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:foods/ice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:acacia_blossom_ice_cream",
+    "count": 1
+  }
+}

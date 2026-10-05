@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/pot_of_whale_meat_stewed_with_pork"
+  }
+}

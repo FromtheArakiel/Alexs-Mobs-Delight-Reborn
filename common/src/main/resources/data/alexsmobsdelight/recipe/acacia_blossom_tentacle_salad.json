@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobs:acacia_blossom"
+    },
+    {
+      "item": "alexsmobs:acacia_blossom"
+    },
+    {
+      "item": "alexsmobs:lost_tentacle"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:acacia_blossom_tentacle_salad"
+  }
+}

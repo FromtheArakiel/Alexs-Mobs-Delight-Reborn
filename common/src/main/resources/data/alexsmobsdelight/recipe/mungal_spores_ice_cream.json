@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:mungal_spores"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:foods/ice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:mungal_spores_ice_cream",
+    "count": 1
+  }
+}

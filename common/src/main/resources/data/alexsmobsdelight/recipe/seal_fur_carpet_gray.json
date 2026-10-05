@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": {
+      "item": "alexsmobsdelight:seal_leather_gray"
+    }
+  },
+  "pattern": [
+    "ll"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:seal_fur_carpet_gray",
+    "count": 3
+  },
+  "show_notification": true
+}

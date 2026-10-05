@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "alexsmobsdelight:raw_crocodile_claw"
+    },
+    "m": {
+      "item": "alexsmobsdelight:raw_crocodile_meat"
+    },
+    "a": {
+      "item": "alexsmobs:crocodile_chestplate"
+    },
+    "t": {
+      "item": "alexsmobsdelight:raw_crocodile_tail"
+    }
+  },
+  "pattern": [
+    "cmc",
+    "mam",
+    "ctc"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:raw_whole_crocodile"
+  },
+  "show_notification": true
+}

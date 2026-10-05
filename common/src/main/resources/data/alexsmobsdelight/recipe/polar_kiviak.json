@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "alexsmobsdelight:raw_seagull"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "alexsmobsdelight:seal_leather_gray"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:polar_kiviak"
+  }
+}

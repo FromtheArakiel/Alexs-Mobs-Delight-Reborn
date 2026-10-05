@@ -1,0 +1,39 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "alexsmobsdelight:block/bunfungus_hodgepodge_side",
+		"3": "alexsmobsdelight:block/bunfungus_hodgepodge_top",
+		"4": "alexsmobsdelight:block/bunfungus_hodgepodge_inner_top",
+		"5": "alexsmobsdelight:block/bunfungus_hodgepodge_bottom",
+		"particle": "alexsmobsdelight:block/bunfungus_hodgepodge_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 11, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 11, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 11, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 11, 16, 16], "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#3"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#5"}
+			}
+		},
+		{
+			"from": [14, 5, 14],
+			"to": [2, 1, 2],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [14, 7, 2, 11], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [2, 7, 14, 11], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [14, 7, 2, 11], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [2, 7, 14, 11], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#4"}
+			}
+		}
+	]
+}

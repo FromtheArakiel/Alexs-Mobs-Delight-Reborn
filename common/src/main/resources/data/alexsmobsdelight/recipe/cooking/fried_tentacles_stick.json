@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:stick"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:cooked_squid_tentacles"
+    },
+    {
+      "tag": "alexsmobsdelight:cooked_squid_tentacles"
+    },
+    {
+      "tag": "alexsmobsdelight:cooked_squid_tentacles"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:fried_tentacles_stick"
+  }
+}

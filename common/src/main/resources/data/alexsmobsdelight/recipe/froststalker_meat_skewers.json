@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:cooked_froststalker_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:cooked_froststalker_meat"
+    },
+    {
+      "item": "minecraft:fern"
+    },
+    {
+      "item": "minecraft:iron_bars"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:froststalker_meat_skewers"
+  }
+}

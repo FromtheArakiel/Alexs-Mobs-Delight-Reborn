@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "alexsmobs:raw_catfish",
+    "alexsmobs:flying_fish",
+    "alexsmobsdelight:mantis_shrimp_tail_red",
+    "alexsmobsdelight:mantis_shrimp_tail_green",
+    "alexsmobsdelight:mantis_shrimp_tail_lime",
+    "alexsmobsdelight:mantis_shrimp_tail_white",
+    "alexsmobsdelight:raw_catfish_slice",
+    "alexsmobsdelight:raw_flying_fish_slice",
+    "alexsmobsdelight:raw_devils_hole_pupfish",
+    "alexsmobsdelight:raw_devils_hole_pupfish_slice",
+    "alexsmobsdelight:raw_mudskipper",
+    "alexsmobsdelight:raw_mudskipper_slice"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "alexsmobsdelight:slice_of_moose_pie"
+    }
+  },
+  "pattern": [
+    "ss",
+    "ss"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:moose_pie"
+  },
+  "show_notification": true
+}

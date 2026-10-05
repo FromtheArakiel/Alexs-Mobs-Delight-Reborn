@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:paper"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_octopus_tentacle"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_octopus_tentacle"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:takoyaki"
+  }
+}

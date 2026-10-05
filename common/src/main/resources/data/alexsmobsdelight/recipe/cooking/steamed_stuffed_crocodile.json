@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:oak_boat"
+  },
+  "cookingtime": 1200,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_whole_crocodile"
+    },
+    {
+      "item": "farmersdelight:rice_bag"
+    },
+    {
+      "item": "farmersdelight:carrot_crate"
+    },
+    {
+      "item": "farmersdelight:tomato_crate"
+    },
+    {
+      "item": "minecraft:seagrass"
+    },
+    {
+      "item": "minecraft:salmon"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:steamed_stuffed_crocodile"
+  }
+}

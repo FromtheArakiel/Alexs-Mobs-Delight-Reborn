@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "h": {
+      "item": "alexsmobs:froststalker_horn"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "h",
+    "s"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:froststalker_horn_knife"
+  }
+}

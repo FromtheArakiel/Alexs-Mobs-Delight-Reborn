@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:big_mac"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "farmersdelight:hamburger",
+        "count": 4
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

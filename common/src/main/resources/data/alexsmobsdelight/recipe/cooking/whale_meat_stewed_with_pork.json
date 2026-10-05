@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:decorated_pot"
+  },
+  "cookingtime": 400,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:whale_meat"
+    },
+    {
+      "tag": "c:foods/raw_pork"
+    },
+    {
+      "item": "minecraft:pufferfish"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:whale_meat_stewed_with_pork"
+  }
+}

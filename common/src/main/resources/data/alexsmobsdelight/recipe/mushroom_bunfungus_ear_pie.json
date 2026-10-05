@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:raw_bunfungus_ear"
+    },
+    {
+      "item": "alexsmobsdelight:raw_bunfungus_ear"
+    },
+    {
+      "item": "alexsmobsdelight:mushroom_cream_soup"
+    },
+    {
+      "item": "alexsmobs:mungal_spores"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:mushroom_bunfungus_ear_pie"
+  }
+}

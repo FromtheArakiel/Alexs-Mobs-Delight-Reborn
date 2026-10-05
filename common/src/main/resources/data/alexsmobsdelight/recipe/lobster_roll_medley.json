@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "h": {
+      "item": "alexsmobsdelight:lobster_head"
+    },
+    "t": {
+      "item": "alexsmobs:cooked_lobster_tail"
+    },
+    "r": {
+      "item": "alexsmobsdelight:lobster_roll"
+    },
+    "k": {
+      "item": "minecraft:kelp"
+    },
+    "b": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "h t",
+    "rrr",
+    "kbk"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:lobster_roll_medley"
+  }
+}

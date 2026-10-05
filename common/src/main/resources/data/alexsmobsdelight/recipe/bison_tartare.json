@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "alexsmobsdelight:raw_bison_meat"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_bison_meat"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:bison_tartare"
+  }
+}

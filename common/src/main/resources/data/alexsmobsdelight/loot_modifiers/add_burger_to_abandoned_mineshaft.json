@@ -1,0 +1,15 @@
+{
+  "type": "alexsmobsdelight:add_loot_table",
+  "conditions":
+  [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/abandoned_mineshaft"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.15
+    }
+  ],
+  "lootTable": "alexsmobsdelight:ghostly_burger"
+}

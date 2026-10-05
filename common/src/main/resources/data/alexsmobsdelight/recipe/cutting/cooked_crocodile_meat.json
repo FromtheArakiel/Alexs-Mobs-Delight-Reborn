@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_crocodile_claw"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "alexsmobsdelight:cooked_crocodile_meat",
+        "count": 2
+      }
+    },
+    {
+      "chance": 0.5,
+      "item": {
+        "id": "alexsmobs:crocodile_scute"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

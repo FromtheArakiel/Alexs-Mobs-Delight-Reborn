@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/bread"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "alexsmobsdelight:slice_of_smoked_tusklin_sausage"
+    },
+    {
+      "tag": "c:crops/tomato"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:smoked_tusklin_sandwich"
+  }
+}

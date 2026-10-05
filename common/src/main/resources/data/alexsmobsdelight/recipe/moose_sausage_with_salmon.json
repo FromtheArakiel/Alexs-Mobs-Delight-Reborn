@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_moose_rib_piece"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_moose_rib_piece"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_moose_rib_piece"
+    },
+    {
+      "tag": "c:foods/cooked_salmon"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "alexsmobs:moose_antler"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:moose_sausage_with_salmon"
+  }
+}

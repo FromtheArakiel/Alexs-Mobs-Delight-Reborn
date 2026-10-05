@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "alexsmobs:banana"
+    },
+    "v": {
+      "item": "minecraft:vine"
+    }
+  },
+  "pattern": [
+    " bv",
+    "b v",
+    " bv"
+  ],
+  "result": {
+    "id": "alexsmobsdelight:banana_bow"
+  }
+}

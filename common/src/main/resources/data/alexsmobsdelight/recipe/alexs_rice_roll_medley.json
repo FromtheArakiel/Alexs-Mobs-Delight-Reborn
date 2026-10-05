@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:catfish_roll"
+    },
+    {
+      "item": "alexsmobsdelight:flying_fish_roll"
+    },
+    {
+      "item": "alexsmobsdelight:mudskipper_roll"
+    },
+    {
+      "item": "alexsmobsdelight:devils_hole_pupfish_roll"
+    },
+    {
+      "item": "alexsmobsdelight:triops_eggs_roll"
+    },
+    {
+      "item": "alexsmobsdelight:triops_eggs_roll"
+    },
+    {
+      "item": "alexsmobs:acacia_blossom"
+    },
+    {
+      "item": "minecraft:lily_pad"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:alexs_rice_roll_medley"
+  }
+}

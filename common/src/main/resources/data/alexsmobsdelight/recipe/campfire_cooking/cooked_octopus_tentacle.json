@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "alexsmobsdelight:mimic_octopus_tentacle"
+  },
+  "result": "alexsmobsdelight:cooked_octopus_tentacle",
+  "experience": 0.35,
+  "cookingtime": 600
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MRM",
+    "SES",
+    "WRW"
+  ],
+  "key": {
+    "M": {
+      "tag": "c:drinks/milk"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "E": {
+      "tag": "forge:eggs"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "R": {
+      "item": "alexsmobs:mungal_spores"
+    }
+  },
+  "result": {
+    "id": "alexsmobsdelight:mungal_spores_cake"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "alexsmobsdelight:raw_froststalker_meat"
+  },
+  "result": "alexsmobsdelight:cooked_froststalker_meat",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "name": "antler",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alexsmobs:moose_antler",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "killer",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "tag": "farmersdelight:tools/knives"
+                  }
+                }
+              }
+            },
+            {
+              "chance": 0.3,
+              "condition": "minecraft:random_chance_with_looting",
+              "looting_multiplier": 0.0625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

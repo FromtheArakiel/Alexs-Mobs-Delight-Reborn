@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "alexsmobsdelight",
+  "version": "${version}",
+  "name": "Alex's Mobs Delight",
+  "description": "Farmer's Delight compat for Alex's Mobs, vanilla style.",
+  "authors": [
+    "FromtheArakiel"
+  ],
+  "license": "LGPL-3.0-only",
+  "icon": "assets/alexsmobsdelight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.arakiel.alexsmobsdelight.fabric.AlexsMobsDelightFabric"
+    ],
+    "client": [
+      "dev.arakiel.alexsmobsdelight.fabric.AlexsMobsDelightFabricClient"
+    ],
+    "jei_mod_plugin": [
+      "dev.arakiel.alexsmobsdelight.integration.jei.JEIPlugin"
+    ],
+    "jade": [
+      "dev.arakiel.alexsmobsdelight.integration.jade.AlexsMobsDelightJadePlugin"
+    ]
+  },
+  "mixins": [
+    "alexsmobsdelight.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.11",
+    "fabric-api": "*",
+    "farmersdelight": "*",
+    "alexsmobs": "*"
+  },
+  "recommends": {
+    "jei": "*",
+    "jade": "*"
+  }
+}

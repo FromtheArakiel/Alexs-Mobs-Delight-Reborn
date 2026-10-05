@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/bread"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_seal_meat"
+    },
+    {
+      "item": "minecraft:fern"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:seal_sandwich"
+  }
+}

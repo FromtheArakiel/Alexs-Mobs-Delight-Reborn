@@ -1,0 +1,28 @@
+architectury {
+    common rootProject.enabled_platforms.split(',')
+}
+
+dependencies {
+    // Fabric Loader is used for the @Environment annotations, which Architectury
+    // rewrites for each platform. Nothing else from it is used in common code.
+    modImplementation "net.fabricmc:fabric-loader:$rootProject.fabric_loader_version"
+
+    // Architectury API provides the cross platform registry and event helpers.
+    modImplementation "dev.architectury:architectury:$rootProject.architectury_api_version"
+
+    // Content mods. The Fabric builds are used for common compilation; both
+    // platforms expose the same class and field names, so the compiled common
+    // code links against the NeoForge builds as well. The jars are local, so the
+    // build never needs a remote repository for them.
+    modCompileOnly files(rootProject.file('libs/alexsmobs-2.2.2-fabric+1.21.1.jar'))
+    modCompileOnly files(rootProject.file('libs/FarmersDelight-1.21.1-3.3.6+refabricated.jar'))
+
+    // JEI is an optional integration: only the Fabric build is needed here to
+    // compile the plugin, which JEI discovers on its own at runtime.
+    modCompileOnly files(rootProject.file('libs/jei-1.21.1-fabric-19.56.0.439.jar'))
+
+    // Jade is an optional integration as well: the shared plugin compiles against
+    // the Fabric build and is loaded by Jade on Fabric (entrypoint) and on
+    // NeoForge (@WailaPlugin annotation).
+    modCompileOnly files(rootProject.file('libs/Jade-1.21.1-Fabric-15.10.6.jar'))
+}

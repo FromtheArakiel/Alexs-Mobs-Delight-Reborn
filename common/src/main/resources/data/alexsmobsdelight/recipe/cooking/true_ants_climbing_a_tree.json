@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "item": "alexsmobsdelight:leafcutter_ant"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "alexsmobsdelight:ants_climbing_a_tree"
+    },
+    {
+      "item": "minecraft:oak_sapling"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:true_ants_climbing_a_tree"
+  }
+}

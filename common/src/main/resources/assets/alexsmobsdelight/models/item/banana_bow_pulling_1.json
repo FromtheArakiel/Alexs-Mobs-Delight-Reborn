@@ -1,0 +1,6 @@
+{
+  "parent": "alexsmobsdelight:item/banana_bow",
+  "textures": {
+    "layer0": "alexsmobsdelight:item/banana_bow_pulling_1"
+  }
+}

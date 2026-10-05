@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alexsmobsdelight:cooked_octopus_tentacle"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_octopus_tentacle"
+    },
+    {
+      "item": "alexsmobsdelight:cooked_octopus_tentacle"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "alexsmobsdelight:tentacle_medley"
+  }
+}

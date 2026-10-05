@@ -1,0 +1,34 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    [
+      {
+        "item": "alexsmobsdelight:mushroom_hat"
+      },
+      {
+        "item": "alexsmobsdelight:cooked_mushroom_hat"
+      }
+    ],
+    {
+      "tag": "farmersdelight:cabbage_roll_ingredients"
+    },
+    {
+      "tag": "c:bones"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "alexsmobsdelight:mushroom_fresh_meat_stew"
+  }
+}

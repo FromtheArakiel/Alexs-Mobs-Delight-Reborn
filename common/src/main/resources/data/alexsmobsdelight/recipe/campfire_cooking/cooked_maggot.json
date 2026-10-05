@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "alexsmobs:maggot"
+  },
+  "result": "alexsmobsdelight:cooked_maggot",
+  "experience": 0.35,
+  "cookingtime": 600
+}

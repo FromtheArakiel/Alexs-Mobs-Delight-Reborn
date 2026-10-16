@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_tusklin_meat_piece"
   },
-  "result": "alexsmobsdelight:cooked_tusklin_meat_piece"
+  "result": {"id": "alexsmobsdelight:cooked_tusklin_meat_piece"}
 }

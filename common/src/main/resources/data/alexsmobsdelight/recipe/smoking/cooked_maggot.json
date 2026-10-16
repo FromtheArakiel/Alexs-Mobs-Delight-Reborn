@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobs:maggot"
   },
-  "result": "alexsmobsdelight:cooked_maggot",
+  "result": {"id": "alexsmobsdelight:cooked_maggot"},
   "experience": 0.35,
   "cookingtime": 100
 }

@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:whale_meat"
   },
-  "result": "alexsmobsdelight:cooked_whale_meat"
+  "result": {"id": "alexsmobsdelight:cooked_whale_meat"}
 }

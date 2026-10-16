@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_anaconda"
   },
-  "result": "alexsmobsdelight:cooked_anaconda"
+  "result": {"id": "alexsmobsdelight:cooked_anaconda"}
 }

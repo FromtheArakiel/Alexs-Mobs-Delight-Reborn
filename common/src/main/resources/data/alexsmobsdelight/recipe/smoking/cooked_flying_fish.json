@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobs:flying_fish"
   },
-  "result": "alexsmobsdelight:cooked_flying_fish",
+  "result": {"id": "alexsmobsdelight:cooked_flying_fish"},
   "experience": 0.35,
   "cookingtime": 100
 }

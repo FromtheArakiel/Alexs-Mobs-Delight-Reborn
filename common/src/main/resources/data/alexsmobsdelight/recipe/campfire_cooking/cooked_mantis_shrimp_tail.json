@@ -6,5 +6,5 @@
   "ingredient": {
     "tag": "alexsmobsdelight:mantis_shrimp_tails"
   },
-  "result": "alexsmobsdelight:cooked_mantis_shrimp_tail"
+  "result": {"id": "alexsmobsdelight:cooked_mantis_shrimp_tail"}
 }

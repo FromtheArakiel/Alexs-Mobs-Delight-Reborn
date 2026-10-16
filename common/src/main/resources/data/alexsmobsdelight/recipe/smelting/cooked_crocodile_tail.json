@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_crocodile_tail"
   },
-  "result": "alexsmobsdelight:cooked_crocodile_tail",
+  "result": {"id": "alexsmobsdelight:cooked_crocodile_tail"},
   "experience": 0.35,
   "cookingtime": 200
 }

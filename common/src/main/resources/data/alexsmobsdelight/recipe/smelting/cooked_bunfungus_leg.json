@@ -4,7 +4,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_bunfungus_leg"
   },
-  "result": "alexsmobsdelight:cooked_bunfungus_leg",
+  "result": {"id": "alexsmobsdelight:cooked_bunfungus_leg"},
   "experience": 0.35,
   "cookingtime": 200
 }

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "alexsmobsdelight:terrapin_shell",
+    "alexsmobsdelight:alligator_snapping_turtle_shell",
+    "minecraft:turtle_helmet",
+    "alexsmobs:spiked_turtle_shell",
+    "alexsmobs:spiked_scute",
+    "minecraft:turtle_scute"
+  ]
+}

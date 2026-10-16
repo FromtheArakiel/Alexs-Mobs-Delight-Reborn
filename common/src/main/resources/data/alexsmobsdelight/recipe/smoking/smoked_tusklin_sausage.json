@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_tusklin_sausage"
   },
-  "result": "alexsmobsdelight:smoked_tusklin_sausage"
+  "result": {"id": "alexsmobsdelight:smoked_tusklin_sausage"}
 }

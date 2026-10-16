@@ -6,30 +6,15 @@
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
-    [
-      {
-        "item": "alexsmobs:flying_fish"
-      },
-      {
-        "item": "alexsmobsdelight:raw_flying_fish_slice"
-      }
-    ],
-    [
-      {
-        "item": "alexsmobs:flying_fish"
-      },
-      {
-        "item": "alexsmobsdelight:raw_flying_fish_slice"
-      }
-    ],
-    [
-      {
-        "item": "alexsmobs:flying_fish"
-      },
-      {
-        "item": "alexsmobsdelight:raw_flying_fish_slice"
-      }
-    ],
+    {
+      "tag": "alexsmobsdelight:raw_flying_fish"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_flying_fish"
+    },
+    {
+      "tag": "alexsmobsdelight:raw_flying_fish"
+    },
     {
       "item": "alexsmobs:stink_bottle"
     }

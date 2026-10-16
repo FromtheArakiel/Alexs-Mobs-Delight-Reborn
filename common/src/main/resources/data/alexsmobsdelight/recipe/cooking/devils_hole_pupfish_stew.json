@@ -6,14 +6,9 @@
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
-    [
-      {
-        "item": "alexsmobsdelight:raw_devils_hole_pupfish"
-      },
-      {
-        "item": "alexsmobsdelight:raw_devils_hole_pupfish_slice"
-      }
-    ],
+    {
+      "tag": "alexsmobsdelight:raw_devils_hole_pupfish"
+    },
     {
       "item": "minecraft:moss_block"
     },

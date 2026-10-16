@@ -6,26 +6,9 @@
   "cookingtime": 400,
   "experience": 1.0,
   "ingredients": [
-    [
-      {
-        "item": "alexsmobsdelight:terrapin_shell"
-      },
-      {
-        "item": "alexsmobsdelight:alligator_snapping_turtle_shell"
-      },
-      {
-        "item": "minecraft:turtle_helmet"
-      },
-      {
-        "item": "alexsmobs:spiked_turtle_shell"
-      },
-      {
-        "item": "alexsmobs:spiked_scute"
-      },
-      {
-        "item": "minecraft:scute"
-      }
-    ],
+    {
+      "tag": "alexsmobsdelight:turtle_shells"
+    },
     {
       "item": "minecraft:honey_bottle"
     },

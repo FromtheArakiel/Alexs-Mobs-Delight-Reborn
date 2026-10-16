@@ -16,7 +16,7 @@
       "item": "minecraft:wheat"
     },
     {
-      "tag": "forge:eggs"
+      "tag": "c:eggs"
     }
   ],
   "recipe_book_tab": "meals",

@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_devils_hole_pupfish"
   },
-  "result": "alexsmobsdelight:cooked_devils_hole_pupfish",
+  "result": {"id": "alexsmobsdelight:cooked_devils_hole_pupfish"},
   "experience": 0.35,
   "cookingtime": 600
 }

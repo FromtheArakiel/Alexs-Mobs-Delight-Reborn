@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobs:centipede_leg"
   },
-  "result": "alexsmobsdelight:cooked_centipede_leg",
+  "result": {"id": "alexsmobsdelight:cooked_centipede_leg"},
   "experience": 0.35,
   "cookingtime": 600
 }

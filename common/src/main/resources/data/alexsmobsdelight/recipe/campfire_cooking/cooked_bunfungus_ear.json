@@ -4,7 +4,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_bunfungus_ear"
   },
-  "result": "alexsmobsdelight:cooked_bunfungus_ear",
+  "result": {"id": "alexsmobsdelight:cooked_bunfungus_ear"},
   "experience": 0.35,
   "cookingtime": 600
 }

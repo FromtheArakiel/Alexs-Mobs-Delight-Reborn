@@ -3,16 +3,11 @@
   "cookingtime": 400,
   "experience": 1.0,
   "ingredients": [
-    [
-      {
-        "item": "alexsmobsdelight:mushroom_hat"
-      },
-      {
-        "item": "alexsmobsdelight:cooked_mushroom_hat"
-      }
-    ],
     {
-      "tag": "farmersdelight:cabbage_roll_ingredients"
+      "tag": "alexsmobsdelight:mushroom_hats"
+    },
+    {
+      "tag": "alexsmobsdelight:cabbage_roll_ingredients"
     },
     {
       "tag": "c:bones"

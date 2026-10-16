@@ -11,7 +11,7 @@
           "conditions": [
             {
               "condition": "minecraft:entity_properties",
-              "entity": "killer",
+              "entity": "attacker",
               "predicate": {
                 "equipment": {
                   "mainhand": {
@@ -27,7 +27,8 @@
               "count": 1
             },
             {
-              "function": "minecraft:looting_enchant",
+              "function": "minecraft:enchanted_count_increase",
+              "enchantment": "minecraft:looting",
               "count": {
                 "min": 0,
                 "max": 1

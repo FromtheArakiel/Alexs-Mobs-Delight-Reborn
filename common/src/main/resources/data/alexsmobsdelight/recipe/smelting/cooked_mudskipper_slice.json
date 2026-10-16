@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_mudskipper_slice"
   },
-  "result": "alexsmobsdelight:cooked_mudskipper_slice",
+  "result": {"id": "alexsmobsdelight:cooked_mudskipper_slice"},
   "experience": 0.35,
   "cookingtime": 200
 }

@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_bison_meat"
   },
-  "result": "alexsmobsdelight:cooked_bison_meat"
+  "result": {"id": "alexsmobsdelight:cooked_bison_meat"}
 }

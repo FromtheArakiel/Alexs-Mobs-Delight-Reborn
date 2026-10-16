@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_bear_meat_slice"
   },
-  "result": "alexsmobsdelight:cooked_bear_meat_slice"
+  "result": {"id": "alexsmobsdelight:cooked_bear_meat_slice"}
 }

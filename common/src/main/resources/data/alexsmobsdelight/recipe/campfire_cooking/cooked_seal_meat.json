@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:seal_meat"
   },
-  "result": "alexsmobsdelight:cooked_seal_meat"
+  "result": {"id": "alexsmobsdelight:cooked_seal_meat"}
 }

@@ -4,7 +4,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_froststalker_leg"
   },
-  "result": "alexsmobsdelight:cooked_froststalker_leg",
+  "result": {"id": "alexsmobsdelight:cooked_froststalker_leg"},
   "experience": 0.35,
   "cookingtime": 600
 }

@@ -11,7 +11,7 @@
           "conditions": [
             {
               "condition": "minecraft:entity_properties",
-              "entity": "killer",
+              "entity": "attacker",
               "predicate": {
                 "equipment": {
                   "mainhand": {
@@ -21,9 +21,14 @@
               }
             },
             {
-              "chance": 0.6,
-              "condition": "minecraft:random_chance_with_looting",
-              "looting_multiplier": 0.0625
+              "unenchanted_chance": 0.6,
+              "condition": "minecraft:random_chance_with_enchanted_bonus",
+              "enchanted_chance": {
+                "type": "minecraft:linear",
+                "base": 0.6625,
+                "per_level_above_first": 0.0625
+              },
+              "enchantment": "minecraft:looting"
             }
           ]
         }

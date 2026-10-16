@@ -16,6 +16,10 @@
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
       "y": 90
     },
+    "facing=east,servings=4": {
+      "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
+      "y": 90
+    },
     "facing=north,servings=0": {
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_3"
     },
@@ -26,6 +30,9 @@
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_1"
     },
     "facing=north,servings=3": {
+      "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0"
+    },
+    "facing=north,servings=4": {
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0"
     },
     "facing=south,servings=0": {
@@ -44,6 +51,10 @@
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
       "y": 180
     },
+    "facing=south,servings=4": {
+      "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
+      "y": 180
+    },
     "facing=west,servings=0": {
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_3",
       "y": 270
@@ -57,6 +68,10 @@
       "y": 270
     },
     "facing=west,servings=3": {
+      "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
+      "y": 270
+    },
+    "facing=west,servings=4": {
       "model": "alexsmobsdelight:block/fried_tarantula_hawk_block_0",
       "y": 270
     }

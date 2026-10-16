@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_kangaroo_meat_slice"
   },
-  "result": "alexsmobsdelight:cooked_kangaroo_meat_slice"
+  "result": {"id": "alexsmobsdelight:cooked_kangaroo_meat_slice"}
 }

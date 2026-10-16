@@ -12,14 +12,9 @@
     {
       "item": "alexsmobsdelight:raw_anaconda"
     },
-    [
-      {
-        "item": "alexsmobs:raw_catfish"
-      },
-      {
-        "item": "alexsmobsdelight:raw_catfish_slice"
-      }
-    ],
+    {
+      "tag": "alexsmobsdelight:raw_catfish"
+    },
     {
       "tag": "c:crops/tomato"
     },

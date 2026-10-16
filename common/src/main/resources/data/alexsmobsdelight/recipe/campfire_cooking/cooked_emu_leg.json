@@ -4,7 +4,7 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_emu_leg"
   },
-  "result": "alexsmobsdelight:cooked_emu_leg",
+  "result": {"id": "alexsmobsdelight:cooked_emu_leg"},
   "experience": 0.35,
   "cookingtime": 600
 }

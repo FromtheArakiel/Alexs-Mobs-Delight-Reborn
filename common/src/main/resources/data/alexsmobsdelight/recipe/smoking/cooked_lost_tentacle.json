@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobs:lost_tentacle"
   },
-  "result": "alexsmobsdelight:cooked_lost_tentacle"
+  "result": {"id": "alexsmobsdelight:cooked_lost_tentacle"}
 }

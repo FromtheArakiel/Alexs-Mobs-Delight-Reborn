@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:seal_leather_brown"
   },
-  "result": "minecraft:leather"
+  "result": {"id": "minecraft:leather"}
 }

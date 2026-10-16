@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_moose_rib_piece"
   },
-  "result": "alexsmobsdelight:cooked_moose_rib_piece"
+  "result": {"id": "alexsmobsdelight:cooked_moose_rib_piece"}
 }

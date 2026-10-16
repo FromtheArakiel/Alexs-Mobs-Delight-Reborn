@@ -6,5 +6,5 @@
   "ingredient": {
     "item": "alexsmobsdelight:raw_seagull"
   },
-  "result": "alexsmobsdelight:cooked_seagull"
+  "result": {"id": "alexsmobsdelight:cooked_seagull"}
 }
